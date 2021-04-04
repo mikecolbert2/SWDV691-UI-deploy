@@ -25,6 +25,11 @@
     ></script>
 
 
+            "scripts": [
+                "../node_modules/jquery/dist/jquery.min.js",
+                "../node_modules/popper.js/dist/umd/popper.min.js",
+                "../node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
 
 
     npm i bootstrap@next --save      //@latest gives 4, @next gives 5
